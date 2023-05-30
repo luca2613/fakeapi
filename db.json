@@ -1,9 +1,4 @@
 {
-	"teste": {
-		{
-			"id": 1,
-			"nome": "luca",
-			"email": "naruto@gmail.com"
-		} 
-	}
+  "id": 1,
+  "nome": "luca"
 }
